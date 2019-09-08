@@ -1,60 +1,68 @@
 {
-  "games": [
-    {
-      "id": 1,
-      "name": "CIAYO Stories"
-    },
-    {
-      "id": 2,
-      "name": "Kota Kita"
-    },
-    {
-      "id": 3,
-      "name": "TTS- Teka Teki Santai"
-    },
-    {
-      "id": 4,
-      "name": "Onet Asli"
-    },
-    {
-      "id": 5,
-      "name": "Metal Brave Arena"
-    },
-    {
-      "id": 6,
-      "name": "Juragan Hantu"
-    },
-    {
-      "id": 7,
-      "name": "Game Anak Soleh"
-    },
-    {
-      "id": 8,
-      "name": "Bumbu Cinta"
-    },
-    {
-      "id": 9,
-      "name": "Botol Ngegas"
-    },
-    {
-      "id": 10,
-      "name": "Football Saga Fantasista"
-    },
-    {
-      "id": 11,
-      "name": "Minecraft"
-    }
-  ],
-  "news": [
-    {
-      "id": 1,
-      "title": "Now Netflix is all-thumbs",
-      "category": "Event",
-      "tags": ["Event1", "Event2", "Event3"],
-      "status": 0,
-      "pinned": 1,
-      "startDate": "30/06/2019",
-      "endDate": "03/07/2019"
-    }
-  ]
+	"games": [{
+			"id": 1,
+			"name": "CIAYO Stories"
+		},
+		{
+			"id": 2,
+			"name": "Kota Kita"
+		},
+		{
+			"id": 3,
+			"name": "TTS- Teka Teki Santai"
+		},
+		{
+			"id": 4,
+			"name": "Onet Asli"
+		},
+		{
+			"id": 5,
+			"name": "Metal Brave Arena"
+		},
+		{
+			"id": 6,
+			"name": "Juragan Hantu"
+		},
+		{
+			"id": 7,
+			"name": "Game Anak Soleh"
+		},
+		{
+			"id": 8,
+			"name": "Bumbu Cinta"
+		},
+		{
+			"id": 9,
+			"name": "Botol Ngegas"
+		},
+		{
+			"id": 10,
+			"name": "Football Saga Fantasista"
+		},
+		{
+			"id": 11,
+			"name": "Minecraft"
+		}
+	],
+	"news": [{
+			"id": 1,
+			"title": "Now Netflix is all-thumbs",
+			"category": "Event",
+			"tags": ["Event1", "Event2", "Event3"],
+			"status": 0,
+			"pinned": 1,
+			"startDate": "30/06/2019",
+			"endDate": "03/07/2019"
+		},
+		{
+			"id": 2,
+			"title": "Pamela Edstrom, Who Helped Shape Microsoft's Public Image, Dies at 71",
+			"category": "Notice",
+			"tags": ["Event1"],
+			"status": 0,
+			"pinned": 0,
+			"startDate": "03/07/2019",
+			"endDate": "08/07/2019"
+		}
+	]
 }
