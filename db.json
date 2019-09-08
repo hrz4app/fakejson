@@ -46,7 +46,7 @@
 	],
 	"news": [{
 			"id": 1,
-			"title": "Now Netflix is all-thumbs",
+			"title": "Now Netflix Is All-Thumbs",
 			"category": "Event",
 			"tags": ["Event1", "Event2", "Event3"],
 			"status": 0,
