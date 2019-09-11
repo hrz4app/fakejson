@@ -93,6 +93,26 @@
 			"pinned": 0,
 			"startDate": "28/06/2019",
 			"endDate": "04/07/2019"
-		}
+		},
+		{
+			"id": 6,
+			"title": "Civilization 6 launches a battle royale mode called Red Death",
+			"category": "ChangeLog",
+			"tags": ["Event2"],
+			"status": 1,
+			"pinned": 1,
+			"startDate": "05/07/2019",
+			"endDate": "08/07/2019"
+		},
+		{
+			"id": 7,
+			"title": "Gears 5 players are getting rewards for putting up with Early Access problems",
+			"category": "Notice",
+			"tags": ["Event3"],
+			"status": 1,
+			"pinned": 0,
+			"startDate": "29/06/2019",
+			"endDate": "05/07/2019"
+		},
 	]
 }
