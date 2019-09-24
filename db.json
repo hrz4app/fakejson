@@ -77,7 +77,7 @@
 		{
 			"id": 4,
 			"title": "Video Games Aren't Addictive",
-			"category": "Change Log",
+			"category": "ChangeLog",
 			"tags": ["Event3"],
 			"status": 0,
 			"pinned": 0,
@@ -113,6 +113,46 @@
 			"pinned": 0,
 			"startDate": "29/06/2019",
 			"endDate": "05/07/2019"
+		},
+		{
+			"id": 8,
+			"title": "Fortnite is getting skill-based matchmaking and bots",
+			"category": "ChangeLog",
+			"tags": ["Event1", "Event2"],
+			"status": 0,
+			"pinned": 0,
+			"startDate": "01/07/2019",
+			"endDate": "05/07/2019"
+		},
+		{
+			"id": 9,
+			"title": "Call of Duty: Black Ops 4 battle royale is getting tanks soon",
+			"category": "Notice",
+			"tags": ["Event1"],
+			"status": 1,
+			"pinned": 1,
+			"startDate": "01/08/2019",
+			"endDate": "05/08/2019"
+		},
+		{
+			"id": 10,
+			"title": "Treyarch testers describe 'sweatshop' conditions working on Black Ops 4",
+			"category": "Notice",
+			"tags": ["Event3"],
+			"status": 0,
+			"pinned": 0,
+			"startDate": "29/06/2019",
+			"endDate": "30/06/2019"
+		},
+		{
+			"id": 11,
+			"title": "Free puzzler Tetromino Slide jumbles Tetris in a devious way",
+			"category": "Notice",
+			"tags": ["Event3"],
+			"status": 1,
+			"pinned": 0,
+			"startDate": "15/07/2019",
+			"endDate": "20/07/2019"
 		}
 	]
 }
