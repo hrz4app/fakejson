@@ -154,5 +154,41 @@
 			"startDate": "15/07/2019",
 			"endDate": "20/07/2019"
 		}
+	],
+	"presets": [{
+			"id": 1,
+			"name": "A Night to Celebrate games",
+			"status": 1,
+			"startDate": "30/06/2019",
+			"endDate": "03/07/2019"
+		},
+		{
+			"id": 2,
+			"name": "A Celebration of Life and games",
+			"status": 1,
+			"startDate": "03/07/2019",
+			"endDate": "05/07/2019"
+		},
+		{
+			"id": 3,
+			"name": "The games Performance",
+			"status": 0,
+			"startDate": "06/07/2019",
+			"endDate": "07/07/2019"
+		},
+		{
+			"id": 4,
+			"name": "The Past, Current, and Future of games",
+			"status": 1,
+			"startDate": "08/07/2019",
+			"endDate": "15/07/2019"
+		},
+		{
+			"id": 5,
+			"name": "Grow Your games Conference",
+			"status": 0,
+			"startDate": "16/07/2019",
+			"endDate": "20/07/2019"
+		},
 	]
 }
